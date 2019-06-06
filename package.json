@@ -5,6 +5,7 @@
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-responsiveness": "https://github.com/singmyr/react-responsiveness.git",
     "react-scripts": "3.0.1"
   },
   "scripts": {
