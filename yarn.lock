@@ -7867,8 +7867,8 @@ react-is@^16.8.1, react-is@^16.8.4:
   integrity sha512-aUk3bHfZ2bRSVFFbbeVS4i+lNPZr3/WM5jT2J5omUVV1zzcs1nAaf3l51ctA5FFvCRbhrH0bdAsRRQddFJZPtA==
 
 "react-responsiveness@https://github.com/singmyr/react-responsiveness.git":
-  version "0.1.15"
-  resolved "https://github.com/singmyr/react-responsiveness.git#58699b356990fe47c7f0df935af9f9440438d1a6"
+  version "0.1.17"
+  resolved "https://github.com/singmyr/react-responsiveness.git#6541af6cc83344052182ec281f877293336d090f"
 
 react-scripts@3.0.1:
   version "3.0.1"
@@ -8247,6 +8247,15 @@ resolve@^1.10.0, resolve@^1.3.2, resolve@^1.5.0, resolve@^1.8.1, resolve@^1.9.0:
   integrity sha512-KuIe4mf++td/eFb6wkaPbMDnP6kObCaEtIDuHOUED6MNUo4K670KZUHuuvYPZDxNF0WVLw49n06M2m2dXphEzA==
   dependencies:
     path-parse "^1.0.6"
+
+"responsive-props-example@https://github.com/singmyr/react-responsiveness-example":
+  version "0.1.0"
+  resolved "https://github.com/singmyr/react-responsiveness-example#4026cc2d29d1fa4eee64ede1411a651da2f86597"
+  dependencies:
+    react "^16.8.6"
+    react-dom "^16.8.6"
+    react-responsiveness "https://github.com/singmyr/react-responsiveness.git"
+    react-scripts "3.0.1"
 
 restore-cursor@^2.0.0:
   version "2.0.0"
